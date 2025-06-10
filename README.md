@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [GitHub]
+- 👨‍💻 All of my projects are available at GitHub
 
 - 📫 How to reach me **ammirruladam@gmail.com**
 
